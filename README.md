@@ -49,7 +49,7 @@ I’m actively building a portfolio with real-world projects in travel, retail, 
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [🧠 Churn Prediction API (MLOps)](https://github.com/Assyrian91/churn-mlops-pipeline) | End-to-end machine learning project with API deployment using FastAPI and Streamlit. | Python, FastAPI, Streamlit, Scikit-Learn |
+| [🧠 Churn Prediction API (MLOps)](https://github.com/Assyrian91/churn-mlops-pipeline) | End-to-end machine learning project with API deployment using FastAPI and dash. | Python, FastAPI, Dash, Scikit-Learn |
 | [✈️ Airline Delay & Cancellation](https://github.com/Assyrian91/airline_delay_analysis) | Analyzed 10 years of flight delay data with dashboard creation. | Python, Tableau |
 | [🚗 Uber Pricing Strategy](https://github.com/Assyrian91/PowerBI-Uber-Dashboard) | Built a pricing model and visualized ride data. | Python, Power BI |
 | [🏨 Hotel Booking Analysis](https://github.com/Assyrian91/Hotel-booking-analysis) | Explored customer booking trends and cancellations. | Python, Power BI |
