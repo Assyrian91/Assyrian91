@@ -63,7 +63,7 @@ I’m actively building a portfolio with real-world projects in travel, retail, 
 
 - 💼 [LinkedIn](http://linkedin.com/in/khoshaba-odeesho-17b5b92aa)  
 - 💻 [GitHub](https://github.com/Assyrian91)  
-- 📧 Email: khoshabayalda91@gmail.com  
+- 📧 Email: khoshaba.odeesho@gmail.com  
 
 ---
 
