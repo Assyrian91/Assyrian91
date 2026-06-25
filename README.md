@@ -65,3 +65,4 @@ I'm actively building production-style projects across finance, hospitality, ret
 ## 📫 Let's Connect
 - 💼 [LinkedIn](http://linkedin.com/in/khoshaba-odeesho-17b5b92aa)
 - 💻 [GitHub](https://github.com/Assyrian91)
+- - 📫 [khoshaba.odeesho@gmail.com](mailto:khoshaba.odeesho@gmail.com)
