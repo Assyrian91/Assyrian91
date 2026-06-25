@@ -1,6 +1,6 @@
 <img src="logo.jpeg" alt="Khoshaba Odeesho Logo" width="120"/>
 
-# Khoshaba Odeesho – Data Analyst
+# Khoshaba Odeesho – Data science / Automation workflows
 
 🌆 Melbourne
 ... 
@@ -19,7 +19,6 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
