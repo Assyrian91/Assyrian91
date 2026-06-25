@@ -17,6 +17,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 🔗 **Live Demo:** [ashuraya-ai-data-analysis.streamlit.app](https://ashuraya-ai-data-analysis.streamlit.app/)
+
 🔗 **Live Demo:** [ashuraya-ai.streamlit.app](https://ashuraya-ai.streamlit.app/)
 ---
 
