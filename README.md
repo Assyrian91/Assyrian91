@@ -18,7 +18,7 @@
 
 🔗 **Live Demo:** [ashuraya-ai-data-analysis.streamlit.app](https://ashuraya-ai-data-analysis.streamlit.app/)
 🔗 **Live Demo:** [ashuraya-ai.streamlit.app](https://ashuraya-ai.streamlit.app/)
-🔗 **Live Demo:** https://ai-workflows-eta.vercel.app/
+🔗 **Live Demo:** [workflow-mapper](https://ai-workflows-eta.vercel.app/)
 ---
 
 🎯 **Data Scientist & Automation Builder** based in Melbourne, with a background in Mathematics and real-world experience in the hospitality industry. I focus on turning raw data into predictive models, dashboards, and automated workflows that solve real business problems.
