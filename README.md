@@ -23,6 +23,7 @@
 
 🎯 **Data Scientist & Automation Builder** based in Melbourne, with a background in Mathematics and real-world experience in the hospitality industry. I focus on turning raw data into predictive models, dashboards, and automated workflows that solve real business problems.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Assyrian91&show_icons=true&theme=radical)
 ---
 
 ## 🧠 About Me
