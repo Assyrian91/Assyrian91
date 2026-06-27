@@ -20,10 +20,7 @@
 🔗 **Live Demo:** [ashuraya-ai.streamlit.app](https://ashuraya-ai.streamlit.app/)
 🔗 **Live Demo:** [workflow-mapper](https://ai-workflows-eta.vercel.app/)
 ---
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Assyrian91&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assyrian91&layout=compact&theme=radical" width="48%" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Assyrian91&layout=compact&theme=radical&exclude_repo=AI-Job-Market-Analysis,au-hotels-cancellation)
 🎯 **Data Scientist & Automation Builder** based in Melbourne, with a background in Mathematics and real-world experience in the hospitality industry. I focus on turning raw data into predictive models, dashboards, and automated workflows that solve real business problems.
 
 ---
