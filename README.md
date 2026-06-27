@@ -16,11 +16,7 @@
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-🔗 **Live Demo:** [ashuraya-ai-data-analysis.streamlit.app](https://ashuraya-ai-data-analysis.streamlit.app/)
-🔗 **Live Demo:** [ashuraya-ai.streamlit.app](https://ashuraya-ai.streamlit.app/)
-🔗 **Live Demo:** [workflow-mapper](https://ai-workflows-eta.vercel.app/)
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Assyrian91&layout=compact&theme=radical&exclude_repo=AI-Job-Market-Analysis,au-hotels-cancellation)
 
 🎯 **Data Scientist & Automation Builder** based in Melbourne, with a background in Mathematics and real-world experience in the hospitality industry. I focus on turning raw data into predictive models, dashboards, and automated workflows that solve real business problems.
 
@@ -31,6 +27,19 @@
 Former Duty Manager in the hotel industry, now working as a Data Scientist building end-to-end ML pipelines and AI-driven automation systems.
 I bring operational thinking and business intuition together with technical skills in Python, machine learning, and workflow automation (n8n, MLOps).
 I'm actively building production-style projects across finance, hospitality, retail, and AI tooling — aiming to grow further in the Australian data & AI market.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Assyrian91&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Assyrian91&layout=compact&theme=radical&exclude_repo=AI-Job-Market-Analysis,au-hotels-cancellation" width="48%" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Assyrian91&theme=radical" width="60%" />
+</p>
 
 ---
 
@@ -49,7 +58,8 @@ I'm actively building production-style projects across finance, hospitality, ret
 - **[Ai-workflows](https://github.com/Assyrian91/Ai-workflows)** — Collection of AI-driven automation workflows
 - **[hotel-ai-assistant](https://github.com/Assyrian91/hotel-ai-assistant)** — AI assistant built for hotel operations
 - **[lead-qualification-crm](https://github.com/Assyrian91/lead-qualification-crm)** — Automated lead qualification system for CRM pipelines
-- **[Assyrian-AI-Data-Analyst](https://github.com/Assyrian91/Assyrian-AI-Data-Analyst)** — AI-powered data analyst tool
+- **[Assyrian-AI-Data-Analyst](https://github.com/Assyrian91/Assyrian-AI-Data-Analyst)** — General-purpose AI data analysis app (Streamlit)
+- **[Assyrian-ai](https://github.com/Assyrian91/Assyrian-ai)** — AI-powered business toolkit (Streamlit) — chatbot, content writers & niche assistants
 
 ### 📊 Data Analysis & BI Dashboards
 - **[hotel-revenue-dashboard](https://github.com/Assyrian91/hotel-revenue-dashboard)** — Revenue analytics dashboard for the hotel industry
@@ -69,4 +79,4 @@ I'm actively building production-style projects across finance, hospitality, ret
 ## 📫 Let's Connect
 - 💼 [LinkedIn](http://linkedin.com/in/khoshaba-odeesho-17b5b92aa)
 - 💻 [GitHub](https://github.com/Assyrian91)
-- - 📫 [khoshaba.odeesho@gmail.com](mailto:khoshaba.odeesho@gmail.com)
+- 📫 [khoshaba.odeesho@gmail.com](mailto:khoshaba.odeesho@gmail.com)
