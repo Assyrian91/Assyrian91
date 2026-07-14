@@ -100,9 +100,24 @@ Actively seeking **Data Analyst · Analytics Engineer · AI Automation** roles i
 ### 🏠 Property Intelligence & Real Estate
 - **[prop-market-intelligence](https://github.com/Assyrian91/prop-market-intelligence)** 🔴 LIVE — Melbourne Northern Corridor Property Intelligence Platform · SQL · XGBoost · Gemini AI · Streamlit · Power BI · n8n
 
+### 🏠 Property Intelligence & Real Estate
+- **[prop-market-intelligence](https://github.com/Assyrian91/prop-market-intelligence)** 🔴 LIVE — Melbourne Northern Corridor Property Intelligence Platform · SQL · XGBoost · Gemini AI · Streamlit · Power BI · n8n
+- **[hotel-intelligence](https://github.com/Assyrian91/hotel-intelligence)** 🔴 LIVE — Hotel Operations Intelligence Suite · SQL · Linear Regression · Streamlit · Power BI · n8n
+
 ### 🗣️ AI-Powered Data Tools
 - **[text-to-sql-explorer](https://github.com/Assyrian91/text-to-sql-explorer)** 🔴 LIVE — Ask any database a question in plain English · auto-detects schema · Turso (SQLite) · OpenRouter · PyGWalker
 
+### ⚙️ AI Automation & n8n Workflows
+- **[personal-finance-automation](https://github.com/Assyrian91/personal-finance-automation)** — Personal finance tracking · Telegram · Google Sheets · Gemini
+- **[hotel-ai-assistant](https://github.com/Assyrian91/hotel-ai-assistant)** — AI hotel concierge · RAG · Pinecone · Gemini · Telegram
+- **[guest-agent-live-workflow](https://github.com/Assyrian91/guest-agent-live-workflow)** — Conversational AI concierge for La Roche Hotel · RAG · tool-calling · human escalation
+- **[Personal-Automation-Assistant](https://github.com/Assyrian91/Personal-Automation-Assistant)** — Multi-tool conversational AI agent · decides which data source to use · working memory
+- **[job-application-follow-up-tracker](https://github.com/Assyrian91/job-application-follow-up-tracker)** — Automated job search assistant · status re-checks · AI-drafted follow-up emails
+- **[content-repurposing-pipeline](https://github.com/Assyrian91/content-repurposing-pipeline)** — One piece of content → platform-specific social captions
+- **[lead-qualification-crm](https://github.com/Assyrian91/lead-qualification-crm)** — AI lead qualification · n8n · Airtable · Gemini
+- **[Ai-workflows](https://github.com/Assyrian91/Ai-workflows)** — Collection of production n8n automation workflows
+- **[Assyrian-AI-Data-Analyst](https://github.com/Assyrian91/Assyrian-AI-Data-Analyst)** — AI data analysis app · Streamlit
+- **[Assyrian-ai](https://github.com/Assyrian91/Assyrian-ai)** — AI business toolkit · chatbot · content writers · Streamlit
 ### 🤖 Machine Learning & MLOps
 - **[mlops-churn-pipeline](https://github.com/Assyrian91/mlops-churn-pipeline)** — End-to-end MLOps pipeline for customer churn prediction
 - **[fraud-detection-project](https://github.com/Assyrian91/fraud-detection-project)** — Credit card fraud detection · XGBoost · FastAPI · Docker · CI/CD
