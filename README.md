@@ -100,6 +100,9 @@ Actively seeking **Data Analyst · Analytics Engineer · AI Automation** roles i
 ### 🏠 Property Intelligence & Real Estate
 - **[prop-market-intelligence](https://github.com/Assyrian91/prop-market-intelligence)** 🔴 LIVE — Melbourne Northern Corridor Property Intelligence Platform · SQL · XGBoost · Gemini AI · Streamlit · Power BI · n8n
 
+### 🗣️ AI-Powered Data Tools
+- **[text-to-sql-explorer](https://github.com/Assyrian91/text-to-sql-explorer)** 🔴 LIVE — Ask any database a question in plain English · auto-detects schema · Turso (SQLite) · OpenRouter · PyGWalker
+
 ### 🤖 Machine Learning & MLOps
 - **[mlops-churn-pipeline](https://github.com/Assyrian91/mlops-churn-pipeline)** — End-to-end MLOps pipeline for customer churn prediction
 - **[fraud-detection-project](https://github.com/Assyrian91/fraud-detection-project)** — Credit card fraud detection · XGBoost · FastAPI · Docker · CI/CD
