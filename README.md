@@ -100,8 +100,6 @@ Actively seeking **Data Analyst · Analytics Engineer · AI Automation** roles i
 ### 🏠 Property Intelligence & Real Estate
 - **[prop-market-intelligence](https://github.com/Assyrian91/prop-market-intelligence)** 🔴 LIVE — Melbourne Northern Corridor Property Intelligence Platform · SQL · XGBoost · Gemini AI · Streamlit · Power BI · n8n
 
-### 🏠 Property Intelligence & Real Estate
-- **[prop-market-intelligence](https://github.com/Assyrian91/prop-market-intelligence)** 🔴 LIVE — Melbourne Northern Corridor Property Intelligence Platform · SQL · XGBoost · Gemini AI · Streamlit · Power BI · n8n
 - **[hotel-intelligence](https://github.com/Assyrian91/hotel-intelligence)** 🔴 LIVE — Hotel Operations Intelligence Suite · SQL · Linear Regression · Streamlit · Power BI · n8n
 
 ### 🗣️ AI-Powered Data Tools
