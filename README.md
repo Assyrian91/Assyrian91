@@ -52,7 +52,7 @@
 Former **Hotel Duty Manager** (13+ years, Iraq) → now building production-grade data science and AI automation systems in Melbourne.
 
 I combine operational business thinking with technical depth across the full data stack:
-- **Data Engineering** — PostgreSQL, Supabase, pipeline design, SQL window functions
+- **Data Engineering** — PostgreSQL, Supabase, Turso, pipeline design, SQL window functions
 - **Machine Learning** — XGBoost, scikit-learn, MLOps, feature engineering
 - **AI Integration** — Gemini, OpenRouter, RAG, LLM-powered automation
 - **Business Intelligence** — Power BI, DAX, Streamlit, Plotly
