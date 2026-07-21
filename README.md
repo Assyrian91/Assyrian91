@@ -12,7 +12,7 @@
   <a href="mailto:khoshaba.odeesho@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://prop-market-intelligence-khoshaba-odeesho.streamlit.app/">
+  <a href="https://energy-price-intelligence-vic1-by-khoshaba.streamlit.app/">
     <img src="https://img.shields.io/badge/Live%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   </a>
 </p>
@@ -21,26 +21,25 @@
 
 ## 🔴 Latest Project — Live Now
 
-### 🏠 Melbourne Northern Corridor — Property Intelligence Platform
+### ⚡ Energy Price Intelligence — VIC1 (Victorian Electricity Market)
 
-> End-to-end data product: SQL · Python · XGBoost · Gemini AI · Streamlit · Power BI · n8n
+> End-to-end data product: Supabase · SQL · XGBoost · Power BI · Docker · Streamlit · n8n
 
 | What | Detail |
 |---|---|
-| 📊 Database | 6-table Supabase PostgreSQL schema · 249 rows real Victorian Government data |
-| 🤖 ML Models | XGBoost champion · MAE $11,744 · 98.1% avg confidence |
-| 🧠 AI Narratives | Google Gemini 2.0 Flash · 8 suburb reports auto-generated |
-| 📈 Dashboards | Streamlit 5-page live dashboard + Power BI 4-page BI report |
-| ⚙️ Pipeline | n8n 10-node workflow · runs daily 7am · Telegram delivery |
-| 📍 Suburbs | Craigieburn · Mickleham · Roxburgh Park · Beveridge · Wallan · Donnybrook · Kalkallo |
+| 📊 Database | 13 months (Jun 2025–Jun 2026) · 113,760 rows · AEMO 5-min price/demand data |
+| 🤖 ML Models | XGBoost live-risk classifier · AUC 0.998 · honestly-tested day-ahead forecast variant |
+| 📈 Dashboards | Power BI 3-page BI report + Streamlit live dashboard with real-time risk gauge |
+| ⚙️ Pipeline | Docker-containerized · n8n monthly auto-refresh + daily health monitoring |
+| 🌡️ Extra feature | Melbourne temperature (Open-Meteo) tested as a forecasting feature |
 
-**Headline insight:** Mickleham grew from $168,000 to $710,300 — 12.29% CAGR over 12 years (+323% total)
+**Headline insight:** June 2025 saw a documented ~108% price surge from coal plant outages — the model correctly reproduces it as a real, verified market event, and the project openly documents where day-ahead forecasting hits its limits rather than overselling the AUC.
 
 <p align="left">
-  <a href="https://prop-market-intelligence-khoshaba-odeesho.streamlit.app/">
+  <a href="https://energy-price-intelligence-vic1-by-khoshaba.streamlit.app/">
     <img src="https://img.shields.io/badge/🔴%20View%20Live%20Dashboard-FF4B4B?style=for-the-badge"/>
   </a>
-  <a href="https://github.com/Assyrian91/prop-market-intelligence">
+  <a href="https://github.com/Assyrian91/energy-price-intelligence-vic1">
     <img src="https://img.shields.io/badge/💻%20GitHub%20Repo-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
@@ -57,6 +56,7 @@ I combine operational business thinking with technical depth across the full dat
 - **AI Integration** — Gemini, OpenRouter, RAG, LLM-powered automation
 - **Business Intelligence** — Power BI, DAX, Streamlit, Plotly
 - **Automation** — n8n workflows, API integrations, scheduled pipelines
+- **DevOps** — Docker, GitHub Actions, containerized reproducible pipelines
 
 Actively seeking **Data Analyst · Analytics Engineer · AI Automation** roles in Melbourne.
 
@@ -97,6 +97,9 @@ Actively seeking **Data Analyst · Analytics Engineer · AI Automation** roles i
 
 ## 🚀 Projects
 
+### ⚡ Energy & Market Intelligence
+- **[energy-price-intelligence-vic1](https://github.com/Assyrian91/energy-price-intelligence-vic1)** 🔴 LIVE — VIC1 electricity spot price risk & forecasting · Supabase · XGBoost · Power BI · Docker · n8n
+
 ### 🏠 Property Intelligence & Real Estate
 - **[prop-market-intelligence](https://github.com/Assyrian91/prop-market-intelligence)** 🔴 LIVE — Melbourne Northern Corridor Property Intelligence Platform · SQL · XGBoost · Gemini AI · Streamlit · Power BI · n8n
 
@@ -116,6 +119,7 @@ Actively seeking **Data Analyst · Analytics Engineer · AI Automation** roles i
 - **[Ai-workflows](https://github.com/Assyrian91/Ai-workflows)** — Collection of production n8n automation workflows
 - **[Assyrian-AI-Data-Analyst](https://github.com/Assyrian91/Assyrian-AI-Data-Analyst)** — AI data analysis app · Streamlit
 - **[Assyrian-ai](https://github.com/Assyrian91/Assyrian-ai)** — AI business toolkit · chatbot · content writers · Streamlit
+
 ### 🤖 Machine Learning & MLOps
 - **[mlops-churn-pipeline](https://github.com/Assyrian91/mlops-churn-pipeline)** — End-to-end MLOps pipeline for customer churn prediction
 - **[fraud-detection-project](https://github.com/Assyrian91/fraud-detection-project)** — Credit card fraud detection · XGBoost · FastAPI · Docker · CI/CD
@@ -124,14 +128,6 @@ Actively seeking **Data Analyst · Analytics Engineer · AI Automation** roles i
 - **[Smart-Loan-recovery](https://github.com/Assyrian91/Smart-Loan-recovery)** — ML-powered loan default prediction and recovery strategies
 - **[Car-Price-Prediction-ML](https://github.com/Assyrian91/Car-Price-Prediction-ML)** — Car price prediction · linear regression · feature engineering
 - **[Movie_Sentiment_Analysis](https://github.com/Assyrian91/Movie_Sentiment_Analysis)** — Deep learning sentiment analysis on IMDb reviews
-
-### ⚙️ AI Automation & n8n Workflows
-- **[personal-finance-automation](https://github.com/Assyrian91/personal-finance-automation)** — Personal finance tracking · Telegram · Google Sheets · Gemini
-- **[hotel-ai-assistant](https://github.com/Assyrian91/hotel-ai-assistant)** — AI hotel concierge · RAG · Pinecone · Gemini · Telegram
-- **[lead-qualification-crm](https://github.com/Assyrian91/lead-qualification-crm)** — AI lead qualification · n8n · Airtable · Gemini
-- **[Ai-workflows](https://github.com/Assyrian91/Ai-workflows)** — Collection of production n8n automation workflows
-- **[Assyrian-AI-Data-Analyst](https://github.com/Assyrian91/Assyrian-AI-Data-Analyst)** — AI data analysis app · Streamlit
-- **[Assyrian-ai](https://github.com/Assyrian91/Assyrian-ai)** — AI business toolkit · chatbot · content writers · Streamlit
 
 ### 📊 Data Analysis & BI Dashboards
 - **[hotel-revenue-dashboard](https://github.com/Assyrian91/hotel-revenue-dashboard)** — Hotel revenue intelligence · Streamlit · Power BI · Prophet forecasting
@@ -153,7 +149,7 @@ Actively seeking **Data Analyst · Analytics Engineer · AI Automation** roles i
 | 💼 LinkedIn | [khoshaba-odeesho-17b5b92aa](https://www.linkedin.com/in/khoshaba-odeesho-17b5b92aa/) |
 | 💻 GitHub | [github.com/Assyrian91](https://github.com/Assyrian91) |
 | 📫 Email | [khoshaba.odeesho@gmail.com](mailto:khoshaba.odeesho@gmail.com) |
-| 🔴 Live Project | [prop-market-intelligence-khoshaba-odeesho.streamlit.app](https://prop-market-intelligence-khoshaba-odeesho.streamlit.app/) |
+| 🔴 Live Project | [energy-price-intelligence-vic1-by-khoshaba.streamlit.app](https://energy-price-intelligence-vic1-by-khoshaba.streamlit.app/) |
 
 ---
 
